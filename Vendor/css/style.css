@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    color: #FED612;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0D0E20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    font-size: 60px;
+}
+
+.txt-type > .txt {
+    border-right: 2px solid #FED612;
+}
+
