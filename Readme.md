@@ -10,8 +10,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-autor">Autor</a>
 </p>
 
 
@@ -39,7 +38,7 @@ $ git clone git@github.com:CrisvanSantos/Type-Writer.git
 
 # Acesse a pasta do projeto
 
-# Execute o arquivo .html
+# Execute o arquivo
 $ index.html
 ```
 
@@ -55,9 +54,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Utilitários**
 
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Fontes:  **[Century Gothic]**
-
 
 ---
 
