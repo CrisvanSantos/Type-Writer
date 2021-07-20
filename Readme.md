@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+	Projects links
 </h4>
 
 <p align="center">
