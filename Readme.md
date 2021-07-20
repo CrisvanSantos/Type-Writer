@@ -74,7 +74,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://github.com/CrisvanSantos">
- <img style="border-radius: 50%;" src="https://github.com/CrisvanSantos/Type-Writer/blob/main/Vendor/img/IMG.jpg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/CrisvanSantos/Type-Writer/blob/main/Vendor/img/IMG.png" width="100px;" alt=""/>
  <br />
  <sub><b>Crisvan dos Santos</b></sub></a> <a href="https://github.com/CrisvanSantos" title="CSdesigner">✒</a>
  <br />
