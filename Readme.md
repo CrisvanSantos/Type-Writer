@@ -81,8 +81,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
 Feito com ❤️ por Crisvan dos Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/crisvan-dos-santos-5083a8215/)
